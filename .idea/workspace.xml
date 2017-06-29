@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b1f41d4-b769-43fe-9e3a-410602af7d34" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/db_exam.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add_borrowing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/add_borrowing.html" afterPath="$PROJECT_DIR$/add_borrowing.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,10 +32,10 @@
       <file leaf-file-name="add_borrowing.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/add_borrowing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="189" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+            <state relative-caret-position="504">
+              <caret line="92" column="16" lean-forward="false" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
               <folding>
-                <element signature="e#9260#9266#0" expanded="true" />
+                <element signature="e#7693#7699#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -256,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498752923309</updated>
-      <workItem from="1498752925150" duration="3010000" />
+      <workItem from="1498752925150" duration="4643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3010000" />
+    <option name="totallyTimeSpent" value="4643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -334,10 +326,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/add_borrowing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="189" column="0" lean-forward="true" selection-start-line="167" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+        <state relative-caret-position="504">
+          <caret line="92" column="16" lean-forward="false" selection-start-line="92" selection-start-column="16" selection-end-line="92" selection-end-column="16" />
           <folding>
-            <element signature="e#9260#9266#0" expanded="true" />
+            <element signature="e#7693#7699#0" expanded="true" />
           </folding>
         </state>
       </provider>
